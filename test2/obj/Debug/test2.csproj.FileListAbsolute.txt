@@ -1,0 +1,44 @@
+C:\Users\berkjackson\Documents\Visual Studio 2013\Projects\ekler_tr2\test2\bin\Debug\test2.exe.config
+C:\Users\berkjackson\Documents\Visual Studio 2013\Projects\ekler_tr2\test2\bin\Debug\test2.exe
+C:\Users\berkjackson\Documents\Visual Studio 2013\Projects\ekler_tr2\test2\bin\Debug\test2.pdb
+C:\Users\berkjackson\Documents\Visual Studio 2013\Projects\ekler_tr2\test2\bin\Debug\ek1.dll
+C:\Users\berkjackson\Documents\Visual Studio 2013\Projects\ekler_tr2\test2\bin\Debug\ek1.pdb
+C:\Users\berkjackson\Documents\Visual Studio 2013\Projects\ekler_tr2\test2\obj\Debug\test2.csprojResolveAssemblyReference.cache
+C:\Users\berkjackson\Documents\Visual Studio 2013\Projects\ekler_tr2\test2\obj\Debug\test2.Form1.resources
+C:\Users\berkjackson\Documents\Visual Studio 2013\Projects\ekler_tr2\test2\obj\Debug\test2.Properties.Resources.resources
+C:\Users\berkjackson\Documents\Visual Studio 2013\Projects\ekler_tr2\test2\obj\Debug\test2.csproj.GenerateResource.Cache
+C:\Users\berkjackson\Documents\Visual Studio 2013\Projects\ekler_tr2\test2\obj\Debug\test2.exe
+C:\Users\berkjackson\Documents\Visual Studio 2013\Projects\ekler_tr2\test2\obj\Debug\test2.pdb
+C:\Users\Büşra Dindaroğlu\Documents\Visual Studio 2015\Projects\ekler_tr2\test2\bin\Debug\test2.exe.config
+C:\Users\Büşra Dindaroğlu\Documents\Visual Studio 2015\Projects\ekler_tr2\test2\obj\Debug\test2.exe
+C:\Users\Büşra Dindaroğlu\Documents\Visual Studio 2015\Projects\ekler_tr2\test2\obj\Debug\test2.pdb
+C:\Users\Büşra Dindaroğlu\Documents\Visual Studio 2015\Projects\ekler_tr2\test2\bin\Debug\test2.exe
+C:\Users\Büşra Dindaroğlu\Documents\Visual Studio 2015\Projects\ekler_tr2\test2\bin\Debug\test2.pdb
+C:\Users\Büşra Dindaroğlu\Documents\Visual Studio 2015\Projects\ekler_tr2\test2\bin\Debug\ek1.dll
+C:\Users\Büşra Dindaroğlu\Documents\Visual Studio 2015\Projects\ekler_tr2\test2\bin\Debug\ek1.pdb
+C:\Users\Büşra Dindaroğlu\Documents\Visual Studio 2015\Projects\ekler_tr2\test2\obj\Debug\test2.csprojResolveAssemblyReference.cache
+C:\Users\Büşra Dindaroğlu\Documents\Visual Studio 2015\Projects\ekler_tr2\test2\obj\Debug\test2.Properties.Resources.resources
+C:\Users\Büşra Dindaroğlu\Documents\Visual Studio 2015\Projects\ekler_tr2\test2\obj\Debug\test2.csproj.GenerateResource.Cache
+C:\Users\Büşra Dindaroğlu\Documents\Visual Studio 2015\Projects\ekler_tr2\test2\bin\Debug\NZemberek.dll
+C:\Users\berkjackson\Documents\Visual Studio 2013\Projects\ekler_tr2\test2\bin\Debug\NZemberek.dll
+C:\Users\Büşra Dindaroğlu\Desktop\ekler_tr2\test2\bin\Debug\test2.exe.config
+C:\Users\Büşra Dindaroğlu\Desktop\ekler_tr2\test2\obj\Debug\test2.exe
+C:\Users\Büşra Dindaroğlu\Desktop\ekler_tr2\test2\obj\Debug\test2.pdb
+C:\Users\Büşra Dindaroğlu\Desktop\ekler_tr2\test2\bin\Debug\test2.exe
+C:\Users\Büşra Dindaroğlu\Desktop\ekler_tr2\test2\bin\Debug\test2.pdb
+C:\Users\Büşra Dindaroğlu\Desktop\ekler_tr2\test2\bin\Debug\ek1.dll
+C:\Users\Büşra Dindaroğlu\Desktop\ekler_tr2\test2\bin\Debug\NZemberek.dll
+C:\Users\Büşra Dindaroğlu\Desktop\ekler_tr2\test2\bin\Debug\ek1.pdb
+C:\Users\Büşra Dindaroğlu\Desktop\ekler_tr2\test2\obj\Debug\test2.csprojResolveAssemblyReference.cache
+C:\Users\Büşra Dindaroğlu\Desktop\ekler_tr2\test2\obj\Debug\test2.Form1.resources
+C:\Users\Büşra Dindaroğlu\Desktop\ekler_tr2\test2\obj\Debug\test2.Properties.Resources.resources
+C:\Users\Büşra Dindaroğlu\Desktop\ekler_tr2\test2\obj\Debug\test2.csproj.GenerateResource.Cache
+C:\Users\Büşra Dindaroğlu\Documents\Visual Studio 2015\Projects\ekler_tr2\test2\obj\Debug\test2.csproj.ResolveComReference.cache
+C:\Users\Büşra Dindaroğlu\Documents\Visual Studio 2015\Projects\ekler_tr2\test2\obj\Debug\test2.exe.licenses
+C:\Users\Büşra Dindaroğlu\Documents\Visual Studio 2015\Projects\ekler_tr2\test2\bin\Debug\MetroFramework.Design.dll
+C:\Users\Büşra Dindaroğlu\Documents\Visual Studio 2015\Projects\ekler_tr2\test2\bin\Debug\MetroFramework.dll
+C:\Users\Büşra Dindaroğlu\Documents\Visual Studio 2015\Projects\ekler_tr2\test2\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Büşra Dindaroğlu\Documents\Visual Studio 2015\Projects\ekler_tr2\test2\obj\Debug\test2.Ekler_Tr.resources
+C:\Users\Büşra Dindaroğlu\Documents\Visual Studio 2015\Projects\ekler_tr2\test2\obj\Debug\test2.MetinDenetleme.resources
+C:\Users\Büşra Dindaroğlu\Documents\Visual Studio 2015\Projects\ekler_tr2\test2\obj\Debug\test2.Denetlenmişler.resources
+C:\Users\Büşra Dindaroğlu\Documents\Visual Studio 2015\Projects\ekler_tr2\test2\bin\Debug\DocX.dll

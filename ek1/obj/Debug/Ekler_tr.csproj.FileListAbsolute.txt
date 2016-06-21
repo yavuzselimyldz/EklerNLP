@@ -1,0 +1,6 @@
+C:\Users\Büşra Dindaroğlu\Documents\Visual Studio 2015\Projects\ekler_tr2\ek1\bin\Debug\ek1.dll
+C:\Users\Büşra Dindaroğlu\Documents\Visual Studio 2015\Projects\ekler_tr2\ek1\bin\Debug\ek1.pdb
+C:\Users\Büşra Dindaroğlu\Documents\Visual Studio 2015\Projects\ekler_tr2\ek1\bin\Debug\NZemberek.dll
+C:\Users\Büşra Dindaroğlu\Documents\Visual Studio 2015\Projects\ekler_tr2\ek1\obj\Debug\Ekler_tr.csprojResolveAssemblyReference.cache
+C:\Users\Büşra Dindaroğlu\Documents\Visual Studio 2015\Projects\ekler_tr2\ek1\obj\Debug\ek1.dll
+C:\Users\Büşra Dindaroğlu\Documents\Visual Studio 2015\Projects\ekler_tr2\ek1\obj\Debug\ek1.pdb
